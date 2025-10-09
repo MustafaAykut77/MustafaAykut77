@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Aykut</h1>
-<h3 align="center">Third year Computer Engineering student at Bursa Technical University</h3>
+<h3 align="center">Computer Engineering student at Bursa Technical University</h3>
 
 - 📫 How to reach me **mustafaykut77@gmail.com**
 
