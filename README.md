@@ -17,7 +17,6 @@
 
 I am a Computer Engineering student at **Bursa Technical University**. I am passionate about software development and constantly eager to learn new technologies.
 
-- 🔭 I’m currently working on **Person Tracking and Recognition Project**
 - 🌱 I’m currently learning **Artificial Intelligence and Computer Vision**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I love coding and coffee! ☕**
